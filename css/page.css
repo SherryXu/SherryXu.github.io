@@ -283,7 +283,9 @@ width:100%
 
 .contact_icon{
   display: inline;
-
+}
+.contact_item{
+    display:inline;
 }
 
 .break {
