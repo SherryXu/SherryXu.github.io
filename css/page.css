@@ -50,7 +50,7 @@ width:100%
 /*Cover Textbox & Content*/
 
 #cover_textbox {
-    position: relative;
+    position: absolute;
     top: 40%;
     width: 100%;
     margin-top: -15px;
